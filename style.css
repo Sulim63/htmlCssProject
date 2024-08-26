@@ -1,0 +1,148 @@
+.header{
+    display: flex;
+    height: 225px;
+    width: 602px;
+    background-color: rgb(40, 40, 71);
+}
+.left{
+    width: 200px;
+    font-weight: bold;
+    padding: 9px 87px;
+}
+.left-top{
+    height: 40px;
+    color: white;
+    font-size: 10px;
+
+}
+.left-bottom{
+    height: px;
+    color: white;
+    font-weight: bold;
+}
+button{
+    height: 19px;
+    width: 56px;
+    font-size: 12px;
+    background-color: rgb(77, 142, 199);
+    color: white;
+    border-radius: 10%;
+    border: rgb(77, 142, 199);
+}   
+.right{
+    width: 300px;
+
+}
+span{
+    margin: 5px;
+    
+}
+.right-top{
+   height: 69px;
+   font-size: 6px;
+   color: white;
+   padding: 3px;
+   margin-left: 15px ; 
+}
+.right-bottom{
+    height: 99px;
+    width: 190px;
+    background-color: dimgray;
+    font-size: 8px;
+    color: white;
+    box-sizing: border-box;
+    padding: 45px  40px;
+    
+    
+}
+p{
+    font-size: 7px;
+}
+.main{
+    height: 208px;    
+    width: 602px;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.block1{
+    display: flex;
+    
+    
+}
+.block2{
+    display: flex;
+}
+.mainLink{
+    height: 180px;
+    width: 602px;
+    background-color: rgb(209, 214, 219);
+    display: flex;
+    font-family: 'Snell Roundhand', cursive;
+    padding: 35px 90px;
+    box-sizing: border-box;
+}
+.footer{
+    height: 146px;
+    width: 602px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blue{
+    height: 42px;
+    width: 602px;
+    background-color: rgb(40, 40, 71);
+}
+.emptiness{
+    height: 71px;
+    width: 71px;
+    border: 2px solid rgb(65, 111, 226);
+    background-color: white;
+    border-radius: 15%;
+    margin: 0px 10px;
+}
+.text{
+    width: 90px;
+    font-size: 10px;
+    padding: 0px 3px;
+}
+.window{
+    width: 428px;
+    height: 62px;
+    box-sizing: border-box;
+    background-color: rgb(77, 142, 199);
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    
+    
+}
+
+.window .button{
+    background-color: rgb(77, 142, 199);
+    color: white;
+    border: 2px solid white;
+    width: 45px;
+    height: 17px;
+    font-size: 13px;
+    border-radius: 15% ;
+    display: flex;
+    align-self:center ;
+}
+
+.h3{
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+.h5{
+    font-size: 8px;
+    color: white;
+    
+}
+
+
